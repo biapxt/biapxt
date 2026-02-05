@@ -1,27 +1,16 @@
 ###
-
 <div align="center">
   <img height="300" src="eu.png">
 </div>
-
 ###
-
 <h1 align="center">Oi, eu sou a Bia👋</h1>
-
 ###
-
 <h2 align="center">Estudante de Ciência da Computação  evoluindo um projeto de cada vez.</h2>
-
 ###
-
 <h3 align="left"></h3>
-
 ###
-
 <h3 align="left">🛠 Conhecimentos</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
