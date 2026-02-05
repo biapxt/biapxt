@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="eu.png">
+  <img height="300" src="eu.png">
 </div>
 
 ###
