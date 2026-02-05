@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="biapxt/eu.png"  />
+  <img height="150" src="biapxt/eu.png">
 </div>
 
 ###
