@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=biapxt.biapxt&"  />
-</div>
-
-###
-
 <h1 align="center">Oi, eu sou a Bia👋</h1>
 
 ###
